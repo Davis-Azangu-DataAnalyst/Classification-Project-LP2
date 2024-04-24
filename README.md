@@ -5,11 +5,17 @@
 This project focuses on predicting customer churn for Teleco company using machine learning classification models. By analyzing customer behavior and historical data, the objective is to develop models that accurately identify customers at risk of churning, ultimately improving profitability and customer retention.
 
 **Key Points**
+
 *Problem Statement:* The project aims to address customer churn by developing reliable machine learning models.
+
 *Scope:* Comprehensive phases include data preprocessing, feature engineering, model development, evaluation, monitoring mechanisms, documentation, and stakeholder communication.
+
 *Hypothesis:* Investigates the likelihood of customers leaving before three years elapse.
+
 *Analytical Questions:* Explores various factors affecting churn, such as payment method, contract type, monthly charges, presence of a partner, type of internet service, and gender.
+
 *Data Understanding:* Data is retrieved from SQL Server and CSV files, inspected for duplicates and missing values, and concatenated for analysis.
+
 *Exploratory Data Analysis (EDA):* Initial exploration involves examining data information and dataset columns.
 
 **Data Preprocessing:**
